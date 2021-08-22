@@ -26,11 +26,11 @@ It displays the number of instructions performed by your push_swap in color, her
 ## How do I run this tester?
 
 ```bash
-git clone https://github.com/lmalki-h/push_swap_tester
+git clone https://github.com/Hugothms/push_swap_tester
 bash push_swap_tester/tester.sh [path-to-push-swap-dir] [stack-size 0R range] [nb_of_tests]
 ```
 ### for example:
-the following command will perform 100 testss with a stack of 100 integers
+the following command will perform 100 tests with a stack of 100 integers
 ```bash
 bash push_swap_tester/tester.sh ../push_swap 100 100
 ```
